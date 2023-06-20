@@ -1,5 +1,5 @@
 
-Hi, I'm Felicity and this is my GitHub profile readme which I will be using to tract my progress across the course.
+Hi, I'm Felicity and this is my GitHub profile readme which I will be using to track my progress across the course.
 
 <!--
 **fpricework/fpricework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
