@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felicity</h1>
-- 🔭 I’m currently working on [Littr](https://littr.netlify.app/)
+- 🔭 I’m currently working on <a href="https://littr.netlify.app/">Littr</a> - <a href="https://github.com/SideQuestSOC/littr">Littr Repo</a>a>
 
 - 📝 I regularly write articles on [#100-Days-of-Code Blog](https://blog.felicityprograms.co.uk/index.php)
 
